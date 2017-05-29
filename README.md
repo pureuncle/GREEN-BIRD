@@ -1,2 +1,2 @@
 # GREEN-BIRD
-Just some basic script.
+Just did some tiny work!
